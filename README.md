@@ -8,7 +8,7 @@ Atölye15 kendi içinde müşterilerini Product Owner pozisyonunda konumlandıra
 
 ## Pozisyon
 
-Almanyada&#39;ki çok büyük bir müşterimiz için multi-squad şekilde çalışan ekipler grubunun birisine dahil olacak bir Node.JS developer arıyoruz. Çalışma şeklimizi çok basitçe özetlemek gerekirse; [Scrum](https://www.scrum.org/) metodolojisi üzerinde [BDD](https://cucumber.io/docs/bdd/) prensiplerini takip ederek [trunk-based development](https://trunkbaseddevelopment.com/), [continuous delivery](https://continuousdelivery.com/) ve [feature flagging](https://launchdarkly.com/blog/what-are-feature-flags/) yapıyoruz. Bunların hepsine ekip kendi içinde yaptığı tartışmalar sonucunda karar kıldı. Kesinlikle bunlarla devam edeceğiz diye bir şey yok, belki de sen geldiğinde ekipte yeni ufuklar açabilirsin.
+Almanya&#39;daki çok büyük bir müşterimiz için multi-squad şekilde çalışan ekipler grubunun birisine dahil olacak bir Node.JS developer arıyoruz. Çalışma şeklimizi çok basitçe özetlemek gerekirse; [Scrum](https://www.scrum.org/) metodolojisi üzerinde [BDD](https://cucumber.io/docs/bdd/) prensiplerini takip ederek [trunk-based development](https://trunkbaseddevelopment.com/), [continuous delivery](https://continuousdelivery.com/) ve [feature flagging](https://launchdarkly.com/blog/what-are-feature-flags/) yapıyoruz. Bunların hepsine ekip kendi içinde yaptığı tartışmalar sonucunda karar kıldı. Kesinlikle bunlarla devam edeceğiz diye bir şey yok, belki de sen geldiğinde ekipte yeni ufuklar açabilirsin.
 
 Dış dünyaya açık bir GraphQL gateway arkasında saklanmış birçok küçük Node.JS ve Go servisimiz var. Sen de bunların birkaçının ve yeni ekleneceklerden bazılarının geliştirilmesinde görev alacaksın.
 
