@@ -40,7 +40,7 @@ Dış dünyaya açık bir GraphQL gateway arkasında saklanmış birçok küçü
 
 ## Başvuru
 
-Eğer ilan ilgini çektiyse başvurmak için [kariyer](https://www.atolye15.com/career/) sayfamızı kullanabilirsin. Burada sağladığımız yan hakları incelemeni tavsiye ederiz.
+Eğer ilan ilgini çektiyse başvurmak için [kariyer](https://atolye15.com/career/) sayfamızı kullanabilirsin. Burada sağladığımız yan hakları incelemeni tavsiye ederiz.
 
 ## Sorum Var
 
